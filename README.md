@@ -1,53 +1,38 @@
 # Alejandro Borrego Megías
-### AI Architect & Engineer
+AI Architect at Aszendit · Palma de Mallorca, Spain
 
-I design and build AI applications with LLMs, agents and retrieval.
-My work spans backend development, evaluation and the infrastructure
-needed to run these systems.
+I'm a mathematician and computer engineer. I work with companies to
+understand their needs and turn them into AI solutions: agents, RAG and
+natural-language access to data, from requirements to architecture,
+development and operations.
 
-Based in Palma de Mallorca, Spain.
+**Now:** I lead Aszendit's AI initiatives on the technical side and I'm
+developing the AI reference architecture for RIU Hotels & Resorts.
 
-## Professional background
+**Before:** Senior AI Engineer at Accenture. I built and led a team of
+seven agent developers for AI Refinery and designed CaixaBank's MCP App
+for ChatGPT, from requirements to operations on GCP.
 
-I currently work as an AI Architect on projects for RIU Hotels & Resorts
-through Aszendit. Previously, I worked at Accenture developing
-LLM-based applications.
+## Start here
 
-My academic background combines Computer Engineering and Mathematics,
-with a master's degree in Big Data, Data Science and AI.
+- [portable-ai-gateway](https://github.com/alejbormeg/portable-ai-gateway):
+  a self-hosted AI gateway to reduce dependence on AI providers. You choose
+  where it runs and which models it connects to. Alpha, partial validation.
+- [NL2SQL-LangGraph](https://github.com/alejbormeg/NL2SQL-LangGraph):
+  the demo I built for my talk at Kreston Iberaudit. Ask PostgreSQL in plain
+  language and get SQL, results and a PDF report.
+- [GenIA Platform](https://github.com/alejbormeg/genia-platform):
+  my master's thesis (UCM). AutoGen agents on MLflow and Ray, on-premise.
+  Graded 10/10 and awarded first prize.
+- [Cephalometric landmarks](https://github.com/alejbormeg/TFG-LandmarkDetectionAndCNNAnalysis):
+  my bachelor's thesis. Adapting 3FabRec to forensic landmarks with very
+  little data, plus a mathematical model of CNNs based on Mallat's work.
 
-## Selected projects
+## Elsewhere
 
-### [NL2SQL with LangGraph](https://github.com/alejbormeg/NL2SQL-LangGraph)
-A proof of concept that translates natural-language questions into SQL,
-queries PostgreSQL and generates reports. Combines agent orchestration,
-retrieval with pgvector, a FastAPI backend and a web interface.
+[Portfolio](https://alejandro-borrego-ia.alejbormeg.chatgpt.site) ·
+[LinkedIn](https://www.linkedin.com/in/alejandroborregomegias) ·
+[Innosfera podcast, ep. 10](https://www.innosferapodcast.com/10) ·
+[How I evaluate NL2SQL (Spanish)](https://alejandro-borrego-ia.alejbormeg.chatgpt.site/notas/evaluar-nl2sql/)
 
-### [Portable AI Gateway](https://github.com/alejbormeg/portable-ai-gateway)
-An alpha-stage, self-hosted gateway for routing AI requests across
-providers. Explores deployment portability, authentication, routing
-and metadata-only auditing. Validation is ongoing.
-
-### [GenIA Platform](https://github.com/alejbormeg/Complete_GenIA_Platform_for_Autogen_Agents)
-An experimental platform combining AutoGen agents, retrieval and
-NL2SQL workflows with MLflow experiment tracking and Ray serving.
-
-### [Cephalometric Landmark Detection](https://github.com/alejbormeg/TFG-LandmarkDetectionAndCNNAnalysis)
-My undergraduate thesis combines mathematical analysis of convolutional
-networks with adapting a landmark detection model to a small dataset
-with incomplete annotations.
-
-## Technical focus
-
-- **AI applications:** LLM integration, agent workflows, RAG and NL2SQL.
-- **Software engineering:** Python, APIs, PostgreSQL and Docker.
-- **Architecture and evaluation:** deployment design, experiment tracking
-  and documenting system limitations.
-
-The repositories above include personal and academic work.
-They are separate from proprietary client projects.
-
-## Explore my work
-
-Start with the selected projects above for architecture, setup
-instructions and implementation details.
+These repositories hold personal and academic work, separate from client projects.
