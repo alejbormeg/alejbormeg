@@ -30,7 +30,7 @@ for ChatGPT, from requirements to operations on GCP.
 
 ## Elsewhere
 
-[Portfolio](https://alejandro-borrego-ia.alejbormeg.chatgpt.site) ·
+[Portfolio](https://portfolio-alejandro-borrego.pages.dev/)·
 [LinkedIn](https://www.linkedin.com/in/alejandroborregomegias) ·
 [Innosfera podcast, ep. 10](https://www.innosferapodcast.com/10) ·
 [How I evaluate NL2SQL (Spanish)](https://alejandro-borrego-ia.alejbormeg.chatgpt.site/notas/evaluar-nl2sql/)
